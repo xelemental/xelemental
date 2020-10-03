@@ -1,7 +1,7 @@
 ### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">Elemental X </a> <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
 
 
-Security researcher, CTF Player who likes to reverse engineer stuffs passionate about Malware , Threat hunting and linux kernel :penguin:
+Security researcher, CTF Player who likes to reverse engineer stuffs passionate about Malware ,threat hunting and linux kernel :penguin:
 
 - :round_pushpin:  Team-Manager @<a href="https://secarmy.org/">SECARMY</a>
 -  :round_pushpin: I’m currently a student persuing my Bachelor's Of Computer Applications from <a href="https://smu.edu.in/smit.html/">Sikkim Manipal Institute of Technology</a>
