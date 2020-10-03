@@ -1,4 +1,4 @@
-### I am <a href="https://xelemental.github.io/" target="_blank">Elemental X </a> <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
+### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">Elemental X </a> <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
 
 
 Security researcher, CTF Player who likes to reverse engineer stuffs passionate about Malware , Threat hunting and linux kernel :penguin:
