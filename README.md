@@ -10,7 +10,7 @@ Security researcher, CTF Player who likes to reverse engineer stuffs passionate 
 
 - :round_pushpin:  Team-Manager @<a href="https://secarmy.org/">SECARMY</a>
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm</a>
-- :round_pushpin: I’m currently a student persuing my Bachelor's Of Computer Applications from <a href="https://smu.edu.in/smit.html/">Sikkim Manipal Institute of Technology</a>
+- :round_pushpin: I’m currently a student pursuing my Bachelor's Of Computer Applications from <a href="https://smu.edu.in/smit.html/">Sikkim Manipal Institute of Technology</a>
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
  
   
