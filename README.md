@@ -6,7 +6,7 @@
 
 
 
-Security researcher, CTF Player who likes to reverse engineer stuffs passionate about Malware ,threat hunting and linux kernel :penguin:
+A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting and linux kernel :penguin:
 
 - :round_pushpin:  Maker & Lead @<a href="https://ax1al.com/">AX1AL</a>
 - :round_pushpin:  Ex-Team-Manager @<a href="https://secarmy.org/">SECARMY</a>
