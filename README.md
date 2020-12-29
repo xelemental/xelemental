@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/VjAB0fOmK15Ze/giphy.gif" width="500"/>
 
 
-### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">Elemental X </a> <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
+### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">ElementalX </a> <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
 
 
 
