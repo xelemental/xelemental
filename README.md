@@ -11,7 +11,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - :round_pushpin:  Maker & Lead @<a href="https://ax1al.com/">AX1AL</a>
 - :round_pushpin:  Ex-Team-Manager @<a href="https://secarmy.org/">SECARMY</a>
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm</a>
-- :round_pushpin: I’m currently a student pursuing my Bachelor's Of Computer Applications</a>
+- :round_pushpin: I’m currently a student pursuing my Bachelor's at Computer Applications</a>
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
  
   
