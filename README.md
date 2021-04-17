@@ -56,7 +56,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 </details>
 
-<h1>Featured Project</h1>
+<!--<h1>Featured Project</h1>-->
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
 
