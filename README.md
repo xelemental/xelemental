@@ -68,9 +68,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 <h1>Featured Project</h1>
 
--[01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
+- [01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
 
--[18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
+- [18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
 
