@@ -66,7 +66,10 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [18/03/2021] [A brief introduction on Linker, Loader, Symbol & Symbol Tables](https://medium.com/ax1al/a-brief-info-on-linker-loader-symbol-symbol-tables-2fed729eb490)
 - [19/03/2021] [A brief introduction on Threads in Linux](https://medium.com/ax1al/a-brief-info-on-threads-in-linux-9a1e7e6c2046)
 
-<!--<h1>Featured Project</h1>-->
+<h1>Featured Project</h1>
+
+-[01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
+-[18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
 
