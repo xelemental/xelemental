@@ -60,9 +60,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 - [02/11/2020] [MITRE ATT&CK : The Overview](https://medium.com/ax1al/mitre-att-ck-the-overview-6fab9a58c425)
 - [02/12/2020] [A quick introduction to YARA Rules](https://medium.com/ax1al/a-quick-introduction-to-yara-e672325de908)
-- [28/02/2021] [ A brief introduction to PE Format](
-- [07/03/2021] [A brief introduction to ELF Format](
-- [13/03/2021] [A brief introduction to Sysmon](
+- [28/02/2021] [ A brief introduction to PE Format](https://medium.com/ax1al/a-brief-introduction-to-pe-format-6052914cc8dd)
+- [07/03/2021] [A brief introduction to ELF Format](https://medium.com/ax1al/a-brief-introduction-to-executable-linkable-format-1ed9a3fdcc91)
+- [13/03/2021] [A brief introduction to Sysmon](https://medium.com/ax1al/a-brief-introduction-to-sysmon-7530b410984c)
 - [18/03/2021] [A brief introduction on Linker, Loader, Symbol & Symbol Tables](https://medium.com/ax1al/a-brief-info-on-linker-loader-symbol-symbol-tables-2fed729eb490)
 - [19/03/2021] [A brief introduction on Threads in Linux](https://medium.com/ax1al/a-brief-info-on-threads-in-linux-9a1e7e6c2046)
 
