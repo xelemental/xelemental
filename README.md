@@ -65,6 +65,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [13/03/2021] [A brief introduction to Sysmon](https://medium.com/ax1al/a-brief-introduction-to-sysmon-7530b410984c)
 - [18/03/2021] [A brief introduction on Linker, Loader, Symbol & Symbol Tables](https://medium.com/ax1al/a-brief-info-on-linker-loader-symbol-symbol-tables-2fed729eb490)
 - [19/03/2021] [A brief introduction on Threads in Linux](https://medium.com/ax1al/a-brief-info-on-threads-in-linux-9a1e7e6c2046)
+- [21/05/2021] [AVR Microcontroller Fundamental speed run](https://medium.com/ax1al/avr-microcontroller-fundamental-speed-run-5526be97c182)
+- [21/05/2021] [Exploring Sigma Rules](https://medium.com/ax1al/exploring-sigma-rules-12e9f1bf2685)
+- [21/05/2021] [Exploring Ghidra with Baby ELF](https://medium.com/ax1al/exploring-ghidra-with-baby-elf-29c986e80a45)
 
 <h1> Projects </h1>
 
