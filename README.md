@@ -68,6 +68,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [21/05/2021] [AVR Microcontroller Fundamental speed run](https://medium.com/ax1al/avr-microcontroller-fundamental-speed-run-5526be97c182)
 - [21/05/2021] [Exploring Sigma Rules](https://medium.com/ax1al/exploring-sigma-rules-12e9f1bf2685)
 - [21/05/2021] [Exploring Ghidra with Baby ELF](https://medium.com/ax1al/exploring-ghidra-with-baby-elf-29c986e80a45)
+- [12-06-2021] [^[Regex &Rust]$](https://xelemental.medium.com/regex-rust-b50f577f5a47)
 
 <h1> Projects </h1>
 
