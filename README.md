@@ -69,12 +69,20 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [21/05/2021] [Exploring Sigma Rules](https://medium.com/ax1al/exploring-sigma-rules-12e9f1bf2685)
 - [21/05/2021] [Exploring Ghidra with Baby ELF](https://medium.com/ax1al/exploring-ghidra-with-baby-elf-29c986e80a45)
 - [12-06-2021] [^[Regex &Rust]$](https://xelemental.medium.com/regex-rust-b50f577f5a47)
+- [19-06-2021] [A journey to understand LLVM-IR & experimenting  it with Rust](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 
 <h1> Projects </h1>
 
 - [01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
 
 - [18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
+ 
+ 
+ # Features 
+
+- [Huffpost News](https://www.huffpost.com/archive/in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter) 
+
+ - [ic0de Podcast](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
 
