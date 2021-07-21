@@ -80,9 +80,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
  
  # Features 
 
-- [Huffpost News](https://www.huffpost.com/archive/in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter) 
+- [Huffpost] [Young Indians Are Turning Online Detectives To Try And Crack Missing Person Cases Abroad](https://www.huffpost.com/archive/in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter) 
 
- - [ic0de Podcast](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
+ - [ic0de Podcast][USING-OS1nt-For-Good](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
 
