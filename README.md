@@ -69,7 +69,8 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [21/05/2021] [Exploring Sigma Rules](https://medium.com/ax1al/exploring-sigma-rules-12e9f1bf2685)
 - [21/05/2021] [Exploring Ghidra with Baby ELF](https://medium.com/ax1al/exploring-ghidra-with-baby-elf-29c986e80a45)
 - [12-06-2021] [^[Regex &Rust]$](https://xelemental.medium.com/regex-rust-b50f577f5a47)
-- [19-06-2021] [A journey to understand LLVM-IR & experimenting  it with Rust](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
+- [19-07-2021] [A journey to understand LLVM-IR & experimenting  it with Rust](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
+- [27-07-2021] [Trying to fit that x64 in one](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
 
 <h1> Projects </h1>
 
