@@ -51,7 +51,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=xelemental&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xelemental&hide=css,java,html&theme=tokyonight">
+ <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xelemental&hide=css,java,html&theme=tokyonight"> -->
 </p>
 
 </details>
