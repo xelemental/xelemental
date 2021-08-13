@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/834512236453953536/852070216145305620/image0.gif" width="500"/>
 
 
-### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">ElementalX </a> <img src="https://media.discordapp.net/attachments/834512236453953536/852070216145305620/image0.gif" height="32" /></h1> 
+### Hi :smiley: I am <a href="https://xelemental.github.io/" target="_blank">ElementalX </a> </h1> 
 
 
 
