@@ -84,7 +84,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
  
  # Badges
  
- 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/V3oV-cCYSkiGhPhWuL18xg"><img src="https://api.ca.badgr.io/public/assertions/b1rkUH8PRJeyi0nXpWfPHA/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Senior Judge Badge</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"></p></blockquote> 
  
  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/tQpDLmJRR3eTzXKupXc86g?identity__email=xelemental%40protonmail.ch"><img src="https://api.badgr.io/public/assertions/tQpDLmJRR3eTzXKupXc86g/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - SANS OSINT Search Party CTF</p></blockquote>
   
