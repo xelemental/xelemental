@@ -14,13 +14,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm.</a>
 - :round_pushpin: I’m currently a student pursuing my Bachelor's at Computer Applications</a>
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
- 
-  
-  
-  
-  
-  
-  
+
+
+
   
  
  
@@ -85,5 +81,23 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
  - [ic0de Podcast][USING-OS1nt-For-Good](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
+ 
+ # Badges
+ 
+ 
+ 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/tQpDLmJRR3eTzXKupXc86g?identity__email=xelemental%40protonmail.ch"><img src="https://api.badgr.io/public/assertions/tQpDLmJRR3eTzXKupXc86g/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - SANS OSINT Search Party CTF</p></blockquote>
+  
+  
+  
 
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/J5VtxKqnTiCObYDDRrv_-g?identity__email=xelemental%40protonmail.ch"><img src="https://api.badgr.io/public/assertions/J5VtxKqnTiCObYDDRrv_-g/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - Global OSINT Search Party CTF 2020</p></blockquote>
 
+ 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/39tVhaxTTNapt3G2dx3W7A?identity__email=xelemental%40protonmail.ch"><img src="https://api.badgr.io/public/assertions/39tVhaxTTNapt3G2dx3W7A/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - conINT OSINT Search Party CTF 2020</p></blockquote>
+ 
+ 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/U6rYSl_3SJuATcG95JJpHg?identity__email=xelemental%40protonmail.ch"><img src="https://api.badgr.io/public/assertions/U6rYSl_3SJuATcG95JJpHg/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - National Missing Persons Hackathon Australia 2020</p></blockquote>
+ 
+ 
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.ca.badgr.io/public/assertions/QGnDVspmRQW45mpTIPSxNQ"><img src="https://api.ca.badgr.io/public/assertions/QGnDVspmRQW45mpTIPSxNQ/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - Global OSINT Search Party CTF 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"></blockquote>
