@@ -110,6 +110,7 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  [Kenji](https://twitter.com/0xKenji)
   *  Gaurav Yadav
   *  Ritik Saini 
+  *  0xSnipe
   *  [Vicky Ray](https://twitter.com/0xVK)
   *  [Jean](https://twitter.com/Jean_Maes_1994)
   *  [Devisha Rochlani](https://twitter.com/DevishaRochlani)
