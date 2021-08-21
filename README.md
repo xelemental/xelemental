@@ -82,6 +82,32 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
  - [ic0de Podcast][USING-OS1nt-For-Good](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
+  
+  # Special Mentions
+     
+I am just another nerd, who knows a thing or two! I am grateful to a handful set of people who inspired, helped, guided, supported me amongst the odds not in favour sometimes, and taught me to become helpful, for whom I know a thing or two or acheived small milestones.
+   
+  *  Parents 
+  *  [Muffin](https://twitter.com/_muffin31)
+  *  ❤️ Redacted. 
+  *  [Argonyte](https://twitter.com/argonyte)
+  *  [Umair](https://twitter.com/0x9747)
+  *  [ysf](https://twitter.com/ysfr)
+  *  [Tr Taseen](https://twitter.com/thisistaseen)
+  *  [Deviner aka Hitesh Patra](https://twitter.com/0xdeviner)
+  *  [batsec](https://twitter.com/_batsec_)
+  *  [Ninja Paranoid](https://twitter.com/NinjaParanoid)
+  *  [D3V1LAL aka Aditya Rai](https://twitter.com/D3v1L4L)
+  *  [Santos Omar](https://twitter.com/santosomar)
+  *  [Pedram Amini](https://twitter.com/pedramamini)
+  *  [Sheeraz Ali](https://twitter.com/beingsheerazali)
+  *  Skript0r
+  *  Miss Jane
+  *  [Vicky Ray](https://twitter.com/0xVK)
+  *  [Jean](https://twitter.com/Jean_Maes_1994)
+  *  [Devisha Rochlani](https://twitter.com/DevishaRochlani)
+ 
+  The kindest set of people! ❤️ 
  
  # Badges
  
@@ -105,3 +131,6 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
    
    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/z7aG82WiRxm0pFHrLVQ5Kg"><img src="https://api.ca.badgr.io/public/assertions/tCFihdPyRaOkfD9uNCQahg/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - Global OSINT Search Party CTF</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"</blockquote>
+     
+     
+
