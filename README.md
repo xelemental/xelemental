@@ -106,7 +106,7 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  [Guided Hacking](https://twitter.com/GuidedHacking)
   *  Skript0r
   *  Miss Jane
-  *  Matthias[https://twitter.com/not_matthias]
+  *  [Matthias](https://twitter.com/not_matthias)
   *  [Kenji](https://twitter.com/0xKenji)
   *  Gaurav Yadav
   *  Ritik Saini 
