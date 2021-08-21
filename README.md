@@ -85,7 +85,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
   # Special Mentions
      
-I am just another nerd, who knows a thing or two! I am grateful to a handful set of people whom I met on internet community who inspired, helped, guided, supported me amongst the odds , and taught me to become helpful & level up my ante. 
+I am just another nerd, who knows a thing or two! I am grateful to a handful set of people whom I met on internet community who inspired / helped / guided / supported,  me amongst the odds , and taught me to become helpful & level up my ante. 
    
   
   *  [Muffin](https://twitter.com/_muffin31)
