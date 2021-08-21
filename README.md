@@ -85,29 +85,40 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
   # Special Mentions
      
-I am just another nerd, who knows a thing or two! I am grateful to a handful set of people who inspired, helped, guided, supported me amongst the odds not in favour sometimes, and taught me to become helpful, for whom I know a thing or two or acheived small milestones.
+I am just another nerd, who knows a thing or two! I am grateful to a handful set of people whom I met on internet community who inspired, helped, guided, supported me amongst the odds , and taught me to become helpful & level up my ante. 
    
-  *  Parents 
+  
   *  [Muffin](https://twitter.com/_muffin31)
   *  ❤️ Redacted. 
   *  [Argonyte](https://twitter.com/argonyte)
   *  [Umair](https://twitter.com/0x9747)
+  *  Kumar
   *  [ysf](https://twitter.com/ysfr)
   *  [Tr Taseen](https://twitter.com/thisistaseen)
   *  [Deviner aka Hitesh Patra](https://twitter.com/0xdeviner)
+  *  Vareesh Ahmed
   *  [batsec](https://twitter.com/_batsec_)
   *  [Ninja Paranoid](https://twitter.com/NinjaParanoid)
   *  [D3V1LAL aka Aditya Rai](https://twitter.com/D3v1L4L)
   *  [Santos Omar](https://twitter.com/santosomar)
   *  [Pedram Amini](https://twitter.com/pedramamini)
   *  [Sheeraz Ali](https://twitter.com/beingsheerazali)
+  *  [Guided Hacking](https://twitter.com/GuidedHacking)
   *  Skript0r
   *  Miss Jane
+  *  Matthias[https://twitter.com/not_matthias]
+  *  [Kenji](https://twitter.com/0xKenji)
+  *  Gaurav Yadav
+  *  Ritik Saini 
   *  [Vicky Ray](https://twitter.com/0xVK)
   *  [Jean](https://twitter.com/Jean_Maes_1994)
   *  [Devisha Rochlani](https://twitter.com/DevishaRochlani)
+  *  Subhajit Saha
+  *  Shashwat Kumar 
+  *  Rohit
+  *  Mritunjay
  
-  The kindest set of people! ❤️ 
+  Cheers to the good people I met since I started my journey into nerdery since January 2019. 
  
  # Badges
  
