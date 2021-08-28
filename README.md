@@ -51,6 +51,8 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xelemental&hide=css,java,html&theme=tokyonight"> 
 
 </details>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=xelemental)
 
 # Blog Posts
 
@@ -144,5 +146,6 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
    
    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/z7aG82WiRxm0pFHrLVQ5Kg"><img src="https://api.ca.badgr.io/public/assertions/tCFihdPyRaOkfD9uNCQahg/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Judge - Global OSINT Search Party CTF</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;"</blockquote>
      
+    
      
-
+    
