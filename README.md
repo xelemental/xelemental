@@ -15,7 +15,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm.</a>
 - :round_pushpin:  Graduated from @<a href="https://youtu.be/fC7oUOUEEi4">REDACTED.</a>
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
-- 📍 Working @ REDACTED.  
+- 📍                Working @ REDACTED.  
 
 
 
@@ -105,7 +105,6 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  [D3V1LAL aka Aditya Rai](https://twitter.com/D3v1L4L)
   *  [Santos Omar](https://twitter.com/santosomar)
   *  [Pedram Amini](https://twitter.com/pedramamini)
-  *  [Sheeraz Ali](https://twitter.com/beingsheerazali)
   *  [Guided Hacking](https://twitter.com/GuidedHacking)
   *  Skript0r
   *  Miss Jane
@@ -116,8 +115,6 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  0xSnipe
   *  [Vicky Ray](https://twitter.com/0xVK)
   *  [Jean](https://twitter.com/Jean_Maes_1994)
-  *  [Devisha Rochlani](https://twitter.com/DevishaRochlani)
-  *  Subhajit Saha
   *  Shashwat Kumar 
   *  Rohit
   *  Mritunjay
