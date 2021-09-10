@@ -92,7 +92,6 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
    
   
   *  [Muffin](https://twitter.com/_muffin31)
-  *  ❤️ Redacted. 
   *  [Argonyte](https://twitter.com/argonyte)
   *  [Umair](https://twitter.com/0x9747)
   *  Kumar
