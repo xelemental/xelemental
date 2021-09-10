@@ -109,14 +109,11 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  Skript0r
   *  Miss Jane
   *  [Matthias](https://twitter.com/not_matthias)
-  *  [Kenji](https://twitter.com/0xKenji)
   *  Gaurav Yadav
   *  Ritik Saini 
   *  0xSnipe
   *  [Vicky Ray](https://twitter.com/0xVK)
   *  [Jean](https://twitter.com/Jean_Maes_1994)
-  *  Shashwat Kumar 
-  *  Rohit
   *  Mritunjay
  
   Cheers to the good people I met since I started my journey into nerdery since January 2019. 
