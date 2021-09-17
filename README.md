@@ -95,16 +95,13 @@ I am just another nerd, who knows a thing or two! I am grateful to a handful set
   *  [Argonyte](https://twitter.com/argonyte)
   *  [Umair](https://twitter.com/0x9747)
   *  Kumar
-  *  [ysf](https://twitter.com/ysfr)
   *  [Tr Taseen](https://twitter.com/thisistaseen)
   *  [Deviner aka Hitesh Patra](https://twitter.com/0xdeviner)
   *  Vareesh Ahmed
   *  [batsec](https://twitter.com/_batsec_)
-  *  [Ninja Paranoid](https://twitter.com/NinjaParanoid)
   *  [D3V1LAL aka Aditya Rai](https://twitter.com/D3v1L4L)
   *  [Santos Omar](https://twitter.com/santosomar)
   *  [Pedram Amini](https://twitter.com/pedramamini)
-  *  [Guided Hacking](https://twitter.com/GuidedHacking)
   *  Skript0r
   *  Miss Jane
   *  [Matthias](https://twitter.com/not_matthias)
