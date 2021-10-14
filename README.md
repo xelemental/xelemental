@@ -88,7 +88,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   # Talks 
   
   
-- [RC 15 ROOTCON 2021](https://www.rootcon.org/home): ["Buzzard : Crafting your post-exploitation framework against odds.]( https://web.archive.org/web/20211014224354/https://www.rootcon.org/html/rc15/talks)
+- [RC 15 ROOTCON 2021](https://www.rootcon.org/home): ["Buzzard : Crafting your post-exploitation framework against odds."]( https://web.archive.org/web/20211014224354/https://www.rootcon.org/html/rc15/talks)
  
  # Badges
  
