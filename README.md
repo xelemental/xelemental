@@ -85,33 +85,10 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
   
-  # Special Mentions
-     
-I am just another nerd, who knows a thing or two! I am grateful to a handful set of people whom I met on internet community who inspired / helped / guided / supported,  me amongst the odds , and taught me to become helpful & level up my ante. 
-   
+  # Talks 
   
-  *  [Muffin](https://twitter.com/_muffin31)
-  *  [Argonyte](https://twitter.com/argonyte)
-  *  [Umair](https://twitter.com/0x9747)
-  *  Kumar
-  *  [Tr Taseen](https://twitter.com/thisistaseen)
-  *  [Deviner aka Hitesh Patra](https://twitter.com/0xdeviner)
-  *  Vareesh Ahmed
-  *  [batsec](https://twitter.com/_batsec_)
-  *  [D3V1LAL aka Aditya Rai](https://twitter.com/D3v1L4L)
-  *  [Santos Omar](https://twitter.com/santosomar)
-  *  [Pedram Amini](https://twitter.com/pedramamini)
-  *  Skript0r
-  *  Miss Jane
-  *  [Matthias](https://twitter.com/not_matthias)
-  *  Gaurav Yadav
-  *  Ritik Saini 
-  *  0xSnipe
-  *  [Vicky Ray](https://twitter.com/0xVK)
-  *  [Jean](https://twitter.com/Jean_Maes_1994)
-  *  Mritunjay
- 
-  Cheers to the good people I met since I started my journey into nerdery since January 2019. 
+  
+- [RC 15 ROOTCON 2021](https://www.rootcon.org/home): ["Buzzard : Crafting your post-exploitation framework against odds.]( https://web.archive.org/web/20211014224354/https://www.rootcon.org/html/rc15/talks)
  
  # Badges
  
