@@ -70,6 +70,14 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [19-07-2021] [A journey to understand LLVM-IR & experimenting  it with Rust](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 - [27-07-2021] [Trying to fit that x64 in one](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
 
+
+  <h1> Personal Work </h1>
+
+- IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
+- Rust Cheat Sheet : A small and handy cheat sheet for Rust ( Coming Soon ). 
+
+
+
 <h1> Projects </h1>
 
 - [01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
