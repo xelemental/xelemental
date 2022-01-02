@@ -71,7 +71,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [27-07-2021] [Trying to fit that x64 in one](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
 
 
-  <h1> Personal Work </h1>
+  <h1> Personal Cheat-Sheets </h1>
 
 - IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
 - Rust Cheat Sheet : A small and handy cheat sheet for Rust ( Coming Soon ). 
