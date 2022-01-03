@@ -74,7 +74,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   <h1> Personal Cheat-Sheets </h1>
 
 - IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
-- Rust Cheat Sheet : A small and handy cheat sheet for Rust ( Coming Soon ). 
+- ![Rust Cheat Sheet :The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
 
 
 
