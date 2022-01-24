@@ -73,6 +73,8 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   <h1> Personal Cheat-Sheets </h1>
 
 - IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
+- [R-Utils](https://github.com/xelemental/R-utils) : GNU Coreutils written in Rust (Coming Soon) .
+- XPack : eXecutable Packer written in Rust ( Coming Soon) .  
 - [Rust Cheat Sheet :The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
 
 
