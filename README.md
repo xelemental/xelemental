@@ -53,7 +53,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=xelemental)
 
-# Blog Posts
+# Blog Posts 
 
 - [02/11/2020] [MITRE ATT&CK : The Overview](https://medium.com/ax1al/mitre-att-ck-the-overview-6fab9a58c425)
 - [02/12/2020] [A quick introduction to YARA Rules](https://medium.com/ax1al/a-quick-introduction-to-yara-e672325de908)
@@ -76,6 +76,13 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [Rust Cheat Sheet :The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
 
 
+  
+  
+  <h1> Papers </h1>
+  
+- [23-03-2022] [Analyzing Quick Heal Update Manager.](https://cdn.discordapp.com/attachments/944308081641275402/956103067034595358/Brief_Analysis_Of_QuickHeal_Update_Manager.pdf)
+  
+  
 
 <h1> Projects </h1>
 
