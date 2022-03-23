@@ -53,7 +53,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=xelemental)
 
-# Blog Posts 
+## Blog Posts 
 
 - [02/11/2020] [MITRE ATT&CK : The Overview](https://medium.com/ax1al/mitre-att-ck-the-overview-6fab9a58c425)
 - [02/12/2020] [A quick introduction to YARA Rules](https://medium.com/ax1al/a-quick-introduction-to-yara-e672325de908)
@@ -70,7 +70,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [27-07-2021] [Trying to fit that x64 in one](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
 
 
-  <h1> Personal Cheat-Sheets </h1>
+  ## Personal Cheat-Sheets 
 
 - IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
 - [Rust Cheat Sheet :The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
@@ -78,13 +78,13 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
   
   
-  <h1> Papers </h1>
+  ## Papers 
   
 - [23-03-2022] [Analyzing Quick Heal Update Manager for V22.00 Product Series.](https://cdn.discordapp.com/attachments/944308081641275402/956103067034595358/Brief_Analysis_Of_QuickHeal_Update_Manager.pdf)
   
   
 
-<h1> Projects </h1>
+  ## Projects 
 
 - [01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
 
@@ -95,7 +95,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [DD/MM/YYY] [R-Utils](https://github.com/xelemental/R-utils) : GNU Coreutils written in Rust (Coming Soon) .
  
  
- # Features 
+  ## Features 
 
 - [Huffpost] [Young Indians Are Turning Online Detectives To Try And Crack Missing Person Cases Abroad](https://www.huffpost.com/archive/in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter) 
 
@@ -103,7 +103,8 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
   
-  # Talks / Workshops 
+ 
+  ## Talks / Workshops 
   
   
 - [RC 15 ROOTCON 2021](https://www.rootcon.org/home): ["Buzzard : Crafting your post-exploitation framework against odds."]( https://web.archive.org/web/20211014224354/https://www.rootcon.org/html/rc15/talks)
