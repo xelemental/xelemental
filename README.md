@@ -8,9 +8,9 @@
 
 A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting, OSINT and low level things of Security from 🇮🇳 .
 
-- :round_pushpin:  Maker & Lead @<a href="https://ax1al.com/">AX1AL.</a>
+- :round_pushpin:  Member & Ex-Lead @<a href="https://ax1al.com/">AX1AL.</a>
 - 📍  Blogger @<a href="https://un-devs.github.io/">Undevs.</a>
-- :round_pushpin:  Senior Judge @<a href="https://www.tracelabs.org/">Trace Labs.</a>
+- :round_pushpin:  Senior Volunteer Judge @<a href="https://www.tracelabs.org/">Trace Labs.</a>
 - :round_pushpin:  Ex-Team-Manager @<a href="https://web.archive.org/web/20200924090740/https://secarmy.org/our-team">SECARMY.</a>
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm.</a>
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
