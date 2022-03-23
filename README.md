@@ -80,7 +80,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
   <h1> Papers </h1>
   
-- [23-03-2022] [Analyzing Quick Heal Update Manager.](https://cdn.discordapp.com/attachments/944308081641275402/956103067034595358/Brief_Analysis_Of_QuickHeal_Update_Manager.pdf)
+- [23-03-2022] [Analyzing Quick Heal Update Manager for V22.00 Product Series.](https://cdn.discordapp.com/attachments/944308081641275402/956103067034595358/Brief_Analysis_Of_QuickHeal_Update_Manager.pdf)
   
   
 
