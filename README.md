@@ -78,6 +78,10 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 
   
+  ## Articles
+  
+ - [A brief analysis of QuickHeal Update Manager.](https://cdn.discordapp.com/attachments/944308081641275402/956103067034595358/Brief_Analysis_Of_QuickHeal_Update_Manager.pdf)
+  
   
 
   ## Projects 
