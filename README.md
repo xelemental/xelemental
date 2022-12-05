@@ -90,7 +90,7 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
 - [18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
   
-- [DD/MM/YYYY] XPack : eXecutable Packer written in Rust ( Coming Soon) .  
+- [05/12/2022] [Windows-Toolkit : Various experiments with PE Files & windows OS](https://github.com/xelemental/Windows-Toolkit) 
   
 - [DD/MM/YYY] [R-Utils](https://github.com/xelemental/R-utils) : GNU Coreutils written in Rust (Coming Soon) .
  
