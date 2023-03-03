@@ -9,7 +9,7 @@
 A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting, OSINT and low level things of Security from 🇮🇳 .
 
 - :round_pushpin:  Malware Analyst @<a href="https://www.mindtree.com/">Mindtree.</a>
-- :round_pushpin:  Member & Ex-Lead @<a href="https://ax1al.com/">AX1AL.</a>
+- :round_pushpin:  Member & Ex-Lead @<a href="https://rixed.blog/">RIXED LABS.</a>
 - 📍  Blogger @<a href="https://un-devs.github.io/">Undevs.</a>
 - :round_pushpin:  Senior Volunteer Judge @<a href="https://www.tracelabs.org/">Trace Labs.</a>
 - :round_pushpin:  Ex-Team-Manager @<a href="https://web.archive.org/web/20200924090740/https://secarmy.org/our-team">SECARMY.</a>
