@@ -69,12 +69,17 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [12-06-2021] [^[Regex &Rust]$](https://xelemental.medium.com/regex-rust-b50f577f5a47)
 - [19-07-2021] [A journey to understand LLVM-IR & experimenting  it with Rust](https://un-devs.github.io/low-level-exploration/journey-to-understanding-llvm-ir/#)
 - [27-07-2021] [Trying to fit that x64 in one](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
+- [27-08-2022] [How expensive is that x86 instruction?](https://rixed-labs.medium.com/how-expensive-is-that-x86-instruction-9fa9fda90957)
+- [29-12-2022] [A brief analysis of Hornet Ransomware](https://rixed-labs.medium.com/a-brief-analysis-of-hornet-ransomware-ec958e9cf310)
+- [20-01-2023] [A small tale on Anti-RE:Part 0](https://rixed-labs.medium.com/a-small-tale-on-anti-re-part-0-95d05ed17580)
+- [27-02-2023] [pkr_ce1a: An unknown packer?](https://xelemental.medium.com/pkr-ce1a-an-unknown-packer-9a167f10ee24)
+- [02-03-2023] [A small tale on Anti-RE: Part 1](https://rixed-labs.medium.com/a-small-tale-on-anti-re-part-1-17a2cf199cf1)
+- 
 
 
   ## Personal Cheat-Sheets 
 
-- IDA Cheat Sheet  : All things IDA Disassembler ( Coming Soon ) .
-- [Rust Cheat Sheet :The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
+- [Rust Cheat Sheet:The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
 
 
   
@@ -95,7 +100,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
   
 - [05/12/2022] [Windows-Toolkit : Various experiments with PE Files & windows OS](https://github.com/xelemental/Windows-Toolkit) 
   
-- [DD/MM/YYY] [R-Utils](https://github.com/xelemental/R-utils) : GNU Coreutils written in Rust (Coming Soon) .
+- [04/04/2023] [D-Dump: Detecting FreeLibrary Evasion Technique using MinidumpWriteDump API.](https://github.com/xelemental/Windows-Toolkit/blob/main/D-Dump_Detecting_FreeLibrary_Unloading_technique..pdf)
+  
+- [12/03/2023] [IDLE-Abuse :  A noble technique to abuse undocumented **RegisterWaitForInputIdle** API for code injection.](https://github.com/RixedLabs/IDLE-Abuse)
  
  
   ## Features 
