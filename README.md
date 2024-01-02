@@ -2,13 +2,13 @@
 <img src="https://media.discordapp.net/attachments/834512236453953536/852070216145305620/image0.gif" width="500"/>
 
 
-### Hi :smiley: I am ElementalX ! </a> </h1> 
+### Hi :smiley: I am ElementalX! </a> </h1> 
 
 
 
-A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting, OSINT and low level things of Security from 🇮🇳 .
+A nerd who likes to reverse engineer stuff passionate about Malware, threat hunting, OSINT and low-level things of Security from 🇮🇳.
 
-- :round_pushpin:  Malware Analyst @<a href="https://www.mindtree.com/">Mindtree.</a>
+- :round_pushpin:  Ex-Malware Analyst @<a href="https://www.mindtree.com/">Mindtree.</a>
 - :round_pushpin:  Member & Ex-Lead @<a href="https://rixed.blog/">RIXED LABS.</a>
 - 📍  Blogger @<a href="https://un-devs.github.io/">Undevs.</a>
 - :round_pushpin:  Senior Volunteer Judge @<a href="https://www.tracelabs.org/">Trace Labs.</a>
@@ -74,12 +74,12 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 - [20-01-2023] [A small tale on Anti-RE:Part 0](https://rixed-labs.medium.com/a-small-tale-on-anti-re-part-0-95d05ed17580)
 - [27-02-2023] [pkr_ce1a: An unknown packer?](https://xelemental.medium.com/pkr-ce1a-an-unknown-packer-9a167f10ee24)
 - [02-03-2023] [A small tale on Anti-RE: Part 1](https://rixed-labs.medium.com/a-small-tale-on-anti-re-part-1-17a2cf199cf1)
-- 
+- [31-04-2023] [Dissecting Exfiltrator 22: Hunting malware Developer](https://github.com/RixedLabs/RixedLabs-Papers/blob/main/Dissecting%20Exfiltrator-22.pdf)
 
 
   ## Personal Cheat-Sheets 
 
-- [Rust Cheat Sheet:The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
+- [Rust Cheat Sheet: The Rust quick reference cheat sheet that aims at providing help on writing basic syntax and methods.](https://quickref.me/rust). 
 
 
   
@@ -94,9 +94,9 @@ A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hun
 
   ## Projects 
 
-- [01/01/2021] [Hawk Base : A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html)
+- [01/01/2021] [Hawk Base: A threat actor library for enthusiasts built along with AX1AL](https://ax1al.com/projects/hawkbase/index.html) [ Project Discontinued...]
 
-- [18/04/2021] [REZ : A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html)
+- [18/04/2021] [REZ: A multiple instruction set architecture library for reverse engineers](https://ax1al.com/projects/rez/index.html) [ Project Discontinued...]
   
 - [05/12/2022] [Windows-Toolkit : Various experiments with PE Files & windows OS](https://github.com/xelemental/Windows-Toolkit) 
   
