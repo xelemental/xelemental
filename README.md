@@ -75,6 +75,7 @@ A nerd who likes to reverse engineer stuff passionate about Malware, threat hunt
 - [27-02-2023] [pkr_ce1a: An unknown packer?](https://xelemental.medium.com/pkr-ce1a-an-unknown-packer-9a167f10ee24)
 - [02-03-2023] [A small tale on Anti-RE: Part 1](https://rixed-labs.medium.com/a-small-tale-on-anti-re-part-1-17a2cf199cf1)
 - [31-04-2023] [Dissecting Exfiltrator 22: Hunting malware Developer](https://github.com/RixedLabs/RixedLabs-Papers/blob/main/Dissecting%20Exfiltrator-22.pdf)
+- [31-12-2023] [Homeland Justice, Albania, Wiper](https://medium.com/@xelemental/homeland-justice-albania-wiper-3c7e7edd43cc)
 
 
   ## Personal Cheat-Sheets 
