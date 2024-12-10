@@ -6,15 +6,16 @@
 
 
 
-A nerd who likes to reverse engineer stuff passionate about Malware, threat hunting, OSINT and low-level things of Security from 🇮🇳.
+A nerd who likes to reverse engineer stuff passionate about Malware, threat hunting, OSINT and low-level Security from 🇮🇳.
 
+- :round_pushpin:  Threat Intelligence Analyst @<a href="https://www.seqrite.com/blog/author/subhajeet/">Seqrite, Quick Heal, India.</a>
 - :round_pushpin:  Ex-Malware Analyst @<a href="https://www.mindtree.com/">Mindtree.</a>
 - :round_pushpin:  Member & Ex-Lead @<a href="https://rixed.blog/">RIXED LABS.</a>
 - 📍  Blogger @<a href="https://un-devs.github.io/">Undevs.</a>
 - :round_pushpin:  Senior Volunteer Judge @<a href="https://www.tracelabs.org/">Trace Labs.</a>
 - :round_pushpin:  Ex-Team-Manager @<a href="https://web.archive.org/web/20200924090740/https://secarmy.org/our-team">SECARMY.</a>
 - :round_pushpin:  Community Member @<a href="https://go.polyswarm.io/polyx/">Polyswarm.</a>
-- :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges
+- :round_pushpin:  I have been contributing my best to the communities through my <a href="https://github.com/xelemental/r3v_ch4lls/">reverse engineering challenges and other blogs.
 
 
 
@@ -115,11 +116,6 @@ A nerd who likes to reverse engineer stuff passionate about Malware, threat hunt
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
   
  
-  ## Talks / Workshops 
-  
-  
-- [RC 15 ROOTCON 2021](https://www.rootcon.org/home): ["Buzzard : Crafting your post-exploitation framework against odds."]( https://web.archive.org/web/20211014224354/https://www.rootcon.org/html/rc15/talks)
-
 
   
  
