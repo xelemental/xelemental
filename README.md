@@ -118,6 +118,11 @@ A nerd who likes to reverse engineer stuff passionate about Malware, threat hunt
  - [Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks](https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html)
 
 
+ ## Talks
+
+ - [Buzzard Crafting your post-exploitation framework against odds](https://youtu.be/_s51c1Y14E8?si=BVOUUtXDfSD8yhl_)
+ - [𝚃𝚑𝚎 𝚁𝚒𝚜𝚎 𝙰𝚗𝚍 𝙵𝚊𝚕𝚕 𝙾𝚏 𝙶𝚘𝚕𝚊𝚗𝚐 𝙼𝚊𝚕𝚠𝚊𝚛𝚎](https://github.com/xelemental/conference-papers/tree/main/AVAR-2024)
+
 
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
   
