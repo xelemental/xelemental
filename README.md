@@ -105,7 +105,8 @@ A nerd who likes to reverse engineer stuff passionate about Malware, threat hunt
 - [04/04/2023] [D-Dump: Detecting FreeLibrary Evasion Technique using MinidumpWriteDump API.](https://github.com/xelemental/Windows-Toolkit/blob/main/D-Dump_Detecting_FreeLibrary_Unloading_technique..pdf)
   
 - [12/03/2023] [IDLE-Abuse :  A noble technique to abuse undocumented **RegisterWaitForInputIdle** API for code injection.](https://github.com/RixedLabs/IDLE-Abuse)
- 
+
+- [29/03/2025][A security research tool for generating customized LNK files that leverage LOLBINs (Living Off The Land Binaries) for red team assessments and security testing(https://github.com/xelemental/Mal-LNK-Generator)
  
   ## Features 
 
