@@ -113,6 +113,12 @@ A nerd who likes to reverse engineer stuff passionate about Malware, threat hunt
 
  - [ic0de Podcast][USING-OS1nt-For-Good](https://podcasts.apple.com/lu/podcast/using-os1nt-for-good/id1537219712?i=1000496819898)
 
+ - [Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite](https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html)
+
+ - [Silent Lynx Using PowerShell, Golang, and C++ Loaders in Multi-Stage Cyberattacks](https://thehackernews.com/2025/02/silent-lynx-using-powershell-golang-and.html)
+
+
+
 <!--[ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xelemental&repo=r3v_ch4lls&theme=radical)-->
   
  
